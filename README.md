@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Trishna Roy and I have strong passion for Information Technology and am aspire to become a Python developer. 
+My name is Trishna Roy and I have strong passion for Information Technology and am aspire to become a Python Backend developer. 
 
 I always had a curiosity about how technology works which has now grown into a deep desire to solve problems and create impactful solutions.
 
